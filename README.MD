@@ -20,7 +20,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título para livro de receitas com linguagem amorosa para receitas básicas do dia a dia                                                        |
-| conteúdo | Façaum ebook de receitas básicas de comidas para o dia a dia utilizando uma linguagem mais amorosa|
+| conteúdo | Faça um ebook de receitas básicas de comidas para o dia a dia utilizando uma linguagem mais amorosa|
 
 
 Copilot：
